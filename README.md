@@ -1,1 +1,1 @@
-# Ping-Pong
+zábavná hra pro dva 
